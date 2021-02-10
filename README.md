@@ -2,10 +2,15 @@ Hi, I'm Erick Santana
 ------------------------------------------
 <a href="https://www.linkedin.com/in/erick-santana-dev/"><img src="https://img.shields.io/badge/Linkedin-erick--santana--dev-blue.svg" /></a>
 ---------------------------------------
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
+<code><img src="https://img.shields.io/badge/-Javascript-yellow.svg" /></code>
+<code><img src="https://img.shields.io/badge/-Typescript-blue.svg" /></code>
+<code><img src="https://img.shields.io/badge/-GraphQL-ff69b4.svg" /></code>
+<code><img src="https://img.shields.io/badge/-MongoDB-success.svg" /></code>
+<code><img src="https://img.shields.io/badge/-Redis-red.svg" /></code>
+<code><img src="https://img.shields.io/badge/-Docker-blue.svg" /></code>
+<code><img src="https://img.shields.io/badge/-NestJS-red.svg" /></code>
+<code><img src="https://img.shields.io/badge/-Jest-orange.svg" /></code>
+<code><img src="https://img.shields.io/badge/-Express-inactive.svg" /></code>
 -------------------------------------
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erick-santana&theme=algolia&layout=compact)](https://github.com/erick-santana)
 ------------------------------------
