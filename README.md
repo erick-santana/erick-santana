@@ -8,7 +8,6 @@
 <code><img src="https://img.shields.io/badge/-MongoDB-success.svg" /></code>
 <code><img src="https://img.shields.io/badge/-Redis-red.svg" /></code>
 <code><img src="https://img.shields.io/badge/-Docker-blue.svg" /></code>
-<code><img src="https://img.shields.io/badge/-NestJS-red.svg" /></code>
 <code><img src="https://img.shields.io/badge/-Jest-orange.svg" /></code>
 <code><img src="https://img.shields.io/badge/-Express-inactive.svg" /></code>
 
