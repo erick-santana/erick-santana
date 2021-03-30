@@ -10,6 +10,7 @@
 <code><img src="https://img.shields.io/badge/-Docker-blue.svg" /></code>
 <code><img src="https://img.shields.io/badge/-Jest-orange.svg" /></code>
 <code><img src="https://img.shields.io/badge/-Express-inactive.svg" /></code>
+<code><img src="https://img.shields.io/badge/-Java-yellowgreen.svg" /></code>
 
 ## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erick-santana&theme=algolia&layout=compact)](https://github.com/erick-santana)
