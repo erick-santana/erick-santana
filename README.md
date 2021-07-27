@@ -2,13 +2,9 @@
 <a href="https://www.linkedin.com/in/erick-santana-dev/"><img src="https://img.shields.io/badge/Linkedin-erick--santana--dev-blue.svg" /></a>
 
 ## Languages and Tools
-<code><img src="https://img.shields.io/badge/-Javascript-yellow.svg" /></code>
-<code><img src="https://img.shields.io/badge/-Typescript-blue.svg" /></code>
 <code><img src="https://img.shields.io/badge/-Java-yellowgreen.svg" /></code>
-<code><img src="https://img.shields.io/badge/-GraphQL-ff69b4.svg" /></code>
 <code><img src="https://img.shields.io/badge/-SQL-lightgrey.svg" /></code>
 <code><img src="https://img.shields.io/badge/-NoSQL-success.svg" /></code>
-<code><img src="https://img.shields.io/badge/-Jest-orange.svg" /></code>
 <code><img src="https://img.shields.io/badge/-JUnit-red.svg" /></code>
 
 ## Top Languages
