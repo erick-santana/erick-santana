@@ -3,6 +3,8 @@
 
 ## Languages and Tools
 <code><img src="https://img.shields.io/badge/-Java-yellowgreen.svg" /></code>
+<code><img src="https://img.shields.io/badge/-Kotlin-purple.svg" /></code>
+<code><img src="https://img.shields.io/badge/-AWS-blue.svg" /></code>
 <code><img src="https://img.shields.io/badge/-SQL-lightgrey.svg" /></code>
 <code><img src="https://img.shields.io/badge/-NoSQL-success.svg" /></code>
 <code><img src="https://img.shields.io/badge/-JUnit-red.svg" /></code>
