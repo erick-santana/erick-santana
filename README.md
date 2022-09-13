@@ -11,6 +11,3 @@
 
 ## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erick-santana&theme=algolia&layout=compact)](https://github.com/erick-santana)
-
-## Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erick-santana&theme=algolia&show_icons=true)
