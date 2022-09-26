@@ -12,7 +12,6 @@
 ## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erick-santana&theme=algolia&layout=compact)](https://github.com/erick-santana)
 
-
 ## Certificates
-- AWS Certified Cloud Practitioner
-- AWS Certified Developer Associate
+![aws-certified-cloud-practitioner (2)](https://user-images.githubusercontent.com/63301414/192400605-f1f6ee28-3b58-474e-abfe-44dab267f3e2.png)
+![aws-certified-developer-associate (2)](https://user-images.githubusercontent.com/63301414/192400585-87d72c70-92ae-4d4d-a28f-42c696c1456b.png)
